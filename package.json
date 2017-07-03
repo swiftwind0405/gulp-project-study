@@ -1,0 +1,25 @@
+{
+  "name": "gulp-project-study",
+  "version": "1.0.0",
+  "description": "study gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swiftwind0405/gulp-project-study.git"
+  },
+  "author": "stanley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swiftwind0405/gulp-project-study/issues"
+  },
+  "homepage": "https://github.com/swiftwind0405/gulp-project-study#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gulp-minify-css": "^1.2.4"
+  }
+}
