@@ -13,7 +13,7 @@ const reload = browserSync.reload // 自刷新
 const proxy = require('http-proxy-middleware') //代理中间件 https://github.com/chimurai/http-proxy-middleware
 
 // 源目录
-const srcPath = 'src/'
+const srcPath = 'src/'  //just test
 const srcPathHtml = srcPath + 'views/';
 const srcPathCss = srcPath + 'styles/';
 const srcPathJs = srcPath + 'scripts/';
